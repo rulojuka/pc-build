@@ -1,0 +1,65 @@
+Comparar preços:
+	- https://geizhals.de/
+
+CPU:
+- BUILD1 ryzen 5 5600x 
+	- 280 euros https://geizhals.de/amd-ryzen-5-5600x-v43018.html
+	- 310 euros https://www.galaxus.de/de/s1/product/amd-ryzen-5-5600x-am4-370-ghz-6-core-prozessor-13987919?ip=ryzen+5+5600x
+- BUILD2 Intel Core i7-11700K
+	- 360 euros https://geizhals.de/intel-core-i7-11700k-bx8070811700k-a2484266.html
+	- 370 euros https://www.galaxus.de/de/s1/product/intel-core-i7-11700k-lga-1200-360-ghz-8-core-prozessor-14715799?ip=Intel+Core+i7-11700K
+
+Cooler:
+- NZXT Kraken X63 (RL-KRX63-01)
+	- 120 euros https://geizhals.de/nzxt-kraken-x63-rl-krx63-01-a2216222.html
+
+RAM:
+- Corsair Vengeance LPX schwarz DIMM Kit 32GB, DDR4-3600
+	- 130 euros https://geizhals.de/corsair-vengeance-lpx-schwarz-dimm-kit-32gb-cmk32gx4m2d3600c18-a2166435.html
+
+GPU:
+- BUILD1 MSI GeForce RTX 2060
+	- 600 euros ASUS Dual GeForce RTX 2060 OC Evo
+- BUILD2 Nvidia GeForce RTX 3060 Ti
+	- 800 euros https://geizhals.de/msi-geforce-rtx-3060-ti-gaming-z-trio-8g-lhr-v390-290r-a2555646.html
+
+Fonte:
+- Corsair CV Series CV550, 550W ATX 2.31
+	- 50 euros https://geizhals.de/corsair-cv-series-cv550-cp-9020210-eu-a2237750.html
+
+SSD:
+- Western Digital WD Blue SN550 NVMe SSD 1TB, M.2 (WDS100T2B0C)
+	- 80 euros https://geizhals.de/western-digital-wd-blue-sn550-nvme-ssd-1tb-wds100t2b0c-a2195074.html?hloc=at&hloc=de
+
+Case:
+- Qualquer uma que caiba tudo
+	- 100 euros no MÁXIMO
+
+Base:
+130 ram
+050 fonte
+120 cooler
+080 SSD
+100 case
+
+480 TOTAL
+---------
+
+BUILD 1:
+310 cpu (ryzen)
+600 GPU
+
+910 TOTAL
+---------
+
+BUILD 2:
+490 cpu + Cooler (i7)
+800 GPU (RTX 3060 Ti)
+
+1290 TOTAL
+
+
+------------------------
+
+BUILD 1 completo: 1390
+BUILD 2 completo: 1770
