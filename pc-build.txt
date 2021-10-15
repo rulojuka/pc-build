@@ -1,6 +1,10 @@
 Comparar preços:
 	- https://geizhals.de/
 
+Placa-mãe:
+- GIGABYTE B550M AORUS Elite
+	- 100 euros https://geizhals.de/gigabyte-b550m-aorus-elite-a2310482.html
+
 CPU:
 - BUILD1 ryzen 5 5600x 
 	- 280 euros https://geizhals.de/amd-ryzen-5-5600x-v43018.html
@@ -36,13 +40,14 @@ Case:
 	- 100 euros no MÁXIMO
 
 Base:
+100 placa-mãe
 130 ram
 050 fonte
 120 cooler
 080 SSD
 100 case
 
-480 TOTAL
+580 TOTAL
 ---------
 
 BUILD 1:
@@ -57,9 +62,7 @@ BUILD 2:
 800 GPU (RTX 3060 Ti)
 
 1290 TOTAL
-
-
 ------------------------
 
-BUILD 1 completo: 1390
-BUILD 2 completo: 1770
+BUILD 1 completo: 1490
+BUILD 2 completo: 1870
